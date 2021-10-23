@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Codebook for Getting and Cleaning Data Project 
 By: Joaquin
 
