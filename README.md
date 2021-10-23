@@ -1,7 +1,5 @@
----
-title: "Programming Assignment 3"
-author: "Joaquin"
----
+# Programming Assignment 3
+By: Joaquin
 
 # Information
 
